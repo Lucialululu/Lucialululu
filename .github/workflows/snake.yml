@@ -14,14 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#ff8888&color_dots=#eef9ff,#c0f3ff,#96d8ff,#5abdff,#2f9be8
+            dist/github-snake.svg?color_snake=#ff8888&color_dots=#ebedf0,#c0f3ff,#96d8ff,#5abdff,#2f9be8
+            dist/github-snake-dark.svg?color_snake=#ff8888&color_dots=#161b22,#1e4a66,#2f7bb0,#5abdff,#c0f3ff
 
-      - name: Push SVG to the output branch
+      - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
