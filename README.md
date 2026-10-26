@@ -87,5 +87,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Instagram-FF8888?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-CC9871?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-<p align="center"><sub> Kan ik lock in på afleveringer</sub></p>
