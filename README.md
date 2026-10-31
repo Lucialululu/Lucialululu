@@ -1,36 +1,3 @@
-<!-- ☁️ Hero pixel art -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%" alt="River under rail bridge pixel art">
-</p>
-
-<!-- ☁️ Animated typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5ABDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Lucia+%3A%2D%29" alt="Typing SVG">
-</p>
-
-# About me
-
-```
-┏──[ whoami ]─────────────────────────────────────────────────────────┓
-┃           __         __  __     ______     __     ______           ┃
-┃          /\ \       /\ \/\ \   /\  ___\   /\ \   /\  __ \          ┃
-┃          \ \ \____  \ \ \_\ \  \ \ \____  \ \ \  \ \  __ \         ┃
-┃           \ \_____\  \ \_____\  \ \_____\  \ \_\  \ \_\ \_\        ┃
-┃            \/_____/   \/_____/   \/_____/   \/_/   \/_/\/_/        ┃
-┃                                                                    ┃
-┃--------------------------------------------------------------------┃
-┃  > USER:      Lucia (Lucialululu)                                  ┃
-┃--------------------------------------------------------------------┃
-┃  > LOCATION:  Denmark                                              ┃
-┃--------------------------------------------------------------------┃
-┃  > INTEREST:  Earning Money :)                                     ┃
-┃--------------------------------------------------------------------┃
-┃  > CURRENTLY: Probably eating a snack                              ┃
-┃--------------------------------------------------------------------┃
-┃  > OBJECTIVE: Write clean code, eat a good snack,                  ┃
-┃               and keep cute and fun.                               ┃
-┗────────────────────────────────────────────────────────────────────┛
-```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucialululu&label=Profile%20views&color=ff8888&style=flat-square" alt="Profile views">
@@ -56,6 +23,9 @@
 <p align="center">
   <a href="https://github.com/Lucialululu/cinnamonroll-cute">
     <img src="https://opengraph.githubassets.com/1/Lucialululu/cinnamonroll-cute" width="48%" alt="cinnamonroll-cute">
+  </a>
+  <a href="https://github.com/Lucialululu/apple_pay">
+    <img src="https://opengraph.githubassets.com/1/Lucialululu/apple_pay" width="48%" alt="apple_pay – Hammie Shop">
   </a>
   <!-- Add another repo card by copying the <a> block above and changing the repo name -->
 </p>
