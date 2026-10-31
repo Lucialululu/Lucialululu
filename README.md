@@ -5,7 +5,7 @@
 
 <!-- ☁️ Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5ABDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucia+:)F;Networks+%E2%80%A2+NLP+%E2%80%A2+Data+Science;I+should+be+working+on+my+projects" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5ABDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucia+:)F;Machine and deep learning+%E2%80%A2+Natural Language Processing+%E2%80%A2+Data+Science;:)" alt="Typing SVG">
 </p>
 
 # ?
