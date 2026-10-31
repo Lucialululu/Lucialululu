@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5ABDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Lucia+%3A%2D%29" alt="Typing SVG">
 </p>
 
-# ?
+# About me
 
 ```
 ┏──[ whoami ]─────────────────────────────────────────────────────────┓
@@ -23,12 +23,12 @@
 ┃--------------------------------------------------------------------┃
 ┃  > LOCATION:  Denmark                                              ┃
 ┃--------------------------------------------------------------------┃
-┃  > INTEREST:  Networks, NLP & Data Science                         ┃
+┃  > INTEREST:  Earning Money :)                                     ┃
 ┃--------------------------------------------------------------------┃
-┃  > CURRENTLY: Making VS Code cuter, one theme at a time            ┃
+┃  > CURRENTLY: Probably eating a snack                              ┃
 ┃--------------------------------------------------------------------┃
-┃  > OBJECTIVE: Write clean code, drink good coffee,                 ┃
-┃               and keep things soft & pastel.                       ┃
+┃  > OBJECTIVE: Write clean code, eat a good snack,                  ┃
+┃               and keep cute and fun.                               ┃
 ┗────────────────────────────────────────────────────────────────────┛
 ```
 
