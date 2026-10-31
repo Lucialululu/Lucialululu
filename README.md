@@ -1,3 +1,36 @@
+<!-- ☁️ Hero pixel art -->
+<p align="center">
+  <img src="cinnamonroll.gif" width="100%" alt="Cinnamonroll gif">
+</p>
+
+<!-- ☁️ Animated typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5ABDFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Lucia+%3A%2D%29" alt="Typing SVG">
+</p>
+
+# About me
+
+```
+┏──[ whoami ]─────────────────────────────────────────────────────────┓
+┃           __         __  __     ______     __     ______           ┃
+┃          /\ \       /\ \/\ \   /\  ___\   /\ \   /\  __ \          ┃
+┃          \ \ \____  \ \ \_\ \  \ \ \____  \ \ \  \ \  __ \         ┃
+┃           \ \_____\  \ \_____\  \ \_____\  \ \_\  \ \_\ \_\        ┃
+┃            \/_____/   \/_____/   \/_____/   \/_/   \/_/\/_/        ┃
+┃                                                                    ┃
+┃--------------------------------------------------------------------┃
+┃  > USER:      Lucia (Lucialululu)                                  ┃
+┃--------------------------------------------------------------------┃
+┃  > LOCATION:  Denmark                                              ┃
+┃--------------------------------------------------------------------┃
+┃  > INTEREST:  Earning Money :)                                     ┃
+┃--------------------------------------------------------------------┃
+┃  > CURRENTLY: Probably eating a snack                              ┃
+┃--------------------------------------------------------------------┃
+┃  > OBJECTIVE: Write clean code, eat a good snack,                  ┃
+┃               and keep cute and fun.                               ┃
+┗────────────────────────────────────────────────────────────────────┛
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucialululu&label=Profile%20views&color=ff8888&style=flat-square" alt="Profile views">
