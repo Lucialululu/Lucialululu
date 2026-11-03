@@ -57,8 +57,8 @@
   <a href="https://github.com/Lucialululu/cinnamonroll-cute">
     <img src="https://opengraph.githubassets.com/1/Lucialululu/cinnamonroll-cute" width="48%" alt="cinnamonroll-cute">
   </a>
-  <a href="https://github.com/Lucialululu/apple_pay">
-    <img src="https://opengraph.githubassets.com/1/Lucialululu/apple_pay" width="48%" alt="apple_pay – Hammie Shop">
+  <a href="https://github.com/Lucialululu/hammie-shop">
+    <img src="https://opengraph.githubassets.com/1/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
   </a>
   <!-- Add another repo card by copying the <a> block above and changing the repo name -->
 </p>
