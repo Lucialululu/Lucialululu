@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucialululu&background=C0F3FF&border=5ABDFF&ring=FF8888&fire=FF8888&currStrNum=804800&sideNums=804800&currStrLabel=5ABDFF&sideLabels=5ABDFF&dates=804800&stroke=5ABDFF" alt="Streak stats">
+  <img src="https://opengraph.githubassets.com/2/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
 </p>
 
 # Socials
