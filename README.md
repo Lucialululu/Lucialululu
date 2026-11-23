@@ -58,7 +58,7 @@
     <img src="https://opengraph.githubassets.com/1/Lucialululu/cinnamonroll-cute" width="48%" alt="cinnamonroll-cute">
   </a>
   <a href="https://github.com/Lucialululu/hammie-shop">
-    <img src="https://opengraph.githubassets.com/1/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
+    <img src="https://opengraph.githubassets.com/hammie2026/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
   </a>
   <!-- Add another repo card by copying the <a> block above and changing the repo name -->
 </p>
@@ -68,10 +68,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucialululu&theme=default" height="170" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucialululu&theme=default" height="170" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://opengraph.githubassets.com/2/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
 </p>
 
 # Socials
