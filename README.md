@@ -58,7 +58,7 @@
     <img src="https://opengraph.githubassets.com/1/Lucialululu/cinnamonroll-cute" width="48%" alt="cinnamonroll-cute">
   </a>
   <a href="https://github.com/Lucialululu/hammie-shop">
-    <img src="https://opengraph.githubassets.com/hammie2026/Lucialululu/hammie-shop" width="48%" alt="Hammie Shop">
+    <img src="https://raw.githubusercontent.com/Lucialululu/hammie-shop/main/store_examples/front_page.png" width="48%" alt="Hammie Shop">
   </a>
   <!-- Add another repo card by copying the <a> block above and changing the repo name -->
 </p>
